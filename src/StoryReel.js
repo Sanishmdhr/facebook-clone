@@ -19,7 +19,7 @@ function StoryReel() {
        <Story
         image='https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/119683816_660843747970691_4936714508005059265_n.jpg?_nc_cat=111&_nc_sid=8bfeb9&_nc_ohc=24ve3Vg71LUAX_rWe-h&_nc_ht=scontent.fktm8-1.fna&oh=7ecbb81fb6e2e8d59af90c83a54dc075&oe=5F8B9906'
         profileSrc='https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/104258993_3093894067361852_3846022178290580398_o.jpg?_nc_cat=104&_nc_sid=09cbfe&_nc_ohc=F6zGoyPVPFkAX-AaZ7o&_nc_ht=scontent.fktm8-1.fna&oh=d0bfb16a1837747d353ce837a818ef0a&oe=5F8BC0DF'
-        title="Sajog Kaji Piya"
+        title="Sanjog Kaji Piya"
       />
        <Story
         image='https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/118771175_3237329666373974_2088277869627489877_o.jpg?_nc_cat=110&_nc_sid=8bfeb9&_nc_ohc=m17W3k-P-vwAX9UxrDR&_nc_ht=scontent.fktm8-1.fna&oh=4c044a35fa7c899117a6412cc1f92afd&oe=5F8890EF'
